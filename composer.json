@@ -24,7 +24,7 @@
         "yiisoft/yii2": "^2.0.0",
         "yiisoft/yii2-bootstrap": "^2.0.0",
         "2amigos/yii2-gallery-widget": "^1.0",
-        "npm-asset/reinq-blueimp-file-upload": "9.34.0"
+        "npm-asset/reinq-blueimp-file-upload": "9.34.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
