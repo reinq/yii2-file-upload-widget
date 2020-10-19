@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class FileUploadPlusAsset extends AssetBundle
 {
-    public $sourcePath = '@npm/blueimp-file-upload';
+    public $sourcePath = '@npm/reinq-blueimp-file-upload';
     public $css = [
         'css/jquery.fileupload.css'
     ];
